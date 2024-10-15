@@ -1,0 +1,54 @@
+#microsoft {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  padding: 0 30px 0 30px;
+}
+
+.nav {
+  background-color: green;
+  text-align: center;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.wrapper1 {
+  background-color: rgb(223, 214, 214);
+  padding: 30px;
+  padding-bottom: 5px;
+}
+
+.wrapper2 {
+  background-color: rgb(213, 241, 218);
+  padding: 30px;
+  padding-top: 20px;
+}
+
+#dunes {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.h2 {
+  color: white;
+  background-color: green;
+  padding: 10px;
+}
+
+#cont {
+  margin-top: 0;
+}
+
+p {
+  text-align: left;
+}

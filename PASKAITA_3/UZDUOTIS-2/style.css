@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: "Roboto", system-ui;
+}
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  display: inline-block;
+}
+
+section {
+  margin-top: 20px;
+}
+
+.pic {
+  width: 100px;
+}
+
+.brown-bc {
+  background-color: rgba(58, 18, 18, 0.308);
+}
+
+.lab {
+  display: inline-block;
+  width: 10%;
+}
+
+.list {
+  display: inline-block;
+  width: 70%;
+}
+
+.margin-0 {
+  margin: 0;
+  display: inline-block;
+}
+
+.sec {
+  padding: 10px;
+}

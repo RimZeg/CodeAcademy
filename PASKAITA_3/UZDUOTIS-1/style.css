@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+}
+
+header {
+  padding: 20px;
+  border: 1px, solid, black;
+}
+
+.logo {
+  width: 50px;
+}
+
+.grey-background {
+  background-color: rgb(177, 172, 172);
+}
+
+section {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+nav {
+  display: inline-block;
+}
+
+.section1 {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.par-2 {
+  width: 70%;
+  display: inline-block;
+}
+
+.img-s {
+  width: 20%;
+  display: inline-block;
+}
+
+.margin-0 {
+  margin: 0;
+}
+
+.section-2 {
+  padding: 10px;
+}
+
+.section-3 {
+  padding: 10px;
+}
+
+.list-cont {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+footer {
+  text-align: center;
+}

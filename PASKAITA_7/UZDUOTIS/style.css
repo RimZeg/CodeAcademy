@@ -1,0 +1,108 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  color: #fffff0;
+}
+
+header {
+  background-color: #010214;
+  text-align: center;
+}
+
+.head-div {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+img {
+  width: 20rem;
+  margin-top: 2rem;
+}
+
+header h1 {
+  color: white;
+  text-align: left;
+}
+
+header nav {
+  background-color: orange;
+  text-align: right;
+  padding: 20px;
+}
+
+header nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 3rem;
+}
+
+section .head-div {
+  padding: 20px 0;
+}
+
+#about,
+#contacts {
+  color: black;
+  text-align: center;
+}
+
+#about h2 {
+  text-align: left;
+}
+
+#about p {
+  text-align: justify;
+  margin-bottom: 30px;
+}
+
+#about a {
+  padding: 10px 50px;
+  background-color: red;
+  border-radius: 10px;
+  color: white;
+}
+
+#table {
+  background-color: #021749;
+}
+
+table,
+th,
+td {
+  border: 2px solid #d11e00;
+  border-collapse: collapse;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+td:last-child,
+tr :last-child {
+  text-align: right;
+  font-weight: bold;
+}
+
+#contacts h2,
+#contacts ul {
+  text-align: left;
+}
+
+#contacts a {
+  padding: 10px 50px;
+  background-color: red;
+  border-radius: 10px;
+  color: white;
+}
+
+footer {
+  background-color: orange;
+  text-align: center;
+  padding: 20px 0;
+}

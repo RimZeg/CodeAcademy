@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(61, 7, 112);
+}
+
+.wrapper {
+  color: rgb(182, 83, 47);
+  text-align: center;
+  width: 500px;
+  border: 2px dotted orange;
+  margin: 50px auto 0 auto;
+  padding: 20px;
+  padding-top: 0;
+}
+
+h1 {
+  color: orange;
+}
+
+p {
+  text-shadow: 2px 2px 3px black;
+  text-align: justify;
+}
+
+.letter-l {
+  font-size: 30px;
+}
+
+img {
+  margin-top: 30px;
+  width: 50%;
+  border-top: 15px solid white;
+  border-right: 15px solid black;
+  border-bottom: 15px solid green;
+  border-left: 15px solid blue;
+  border-radius: 50px;
+}
