@@ -1,0 +1,41 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+.table-div {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
+
+h4 {
+  background-color: rgb(87, 86, 22);
+  color: white;
+  font-weight: 400;
+  font-size: 13px;
+  padding: 15px;
+}
+
+td {
+  padding: 10px;
+  font-size: 12px;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(233, 229, 229);
+}
+
+table,
+th,
+td {
+  border-collapse: collapse;
+  font-size: 13px;
+}
